@@ -24,7 +24,7 @@ Currently, the supported versions are organized as follows:
 
 ## Compilation
 
-Required elements to compiled the project:
+Required elements to compile the project:
 
 * Visual Studio (currently Visual Studio 2015 community)
 * CMake (at least 3.0.2)
